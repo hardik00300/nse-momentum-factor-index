@@ -99,12 +99,5 @@ The momentum index demonstrated continued resilience during the out-of-sample st
 ---
 
 **Hardik Gupta**  
-*December 2025 – January 2026*
-
-This project was conceived and completed as an independent quantitative finance research initiative during December 2025 – January 2026, simulating the workflow of an institutional factor index construction desk. All analysis uses data available as of December 31, 2025. The repository was subsequently published to GitHub in April 2026 without modification to the underlying research or data.
-
----
-
-**Hardik Gupta**  
 M.Sc Economics + B.E. ECE | Finance Minor | BITS Pilani  
 [LinkedIn](#) | [Email](#)
