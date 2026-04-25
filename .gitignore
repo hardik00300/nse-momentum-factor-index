@@ -1,0 +1,12 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data files (raw price data is too large and can be regenerated)
+data/*.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db
